@@ -1,0 +1,18 @@
+{
+"login.title": "El aroma mágico",
+"login.login": "Inicio de sesión",
+"login.username": "Nombre de usuario",
+"login.password": "Contraseña",
+"login.enter": "Entrar",
+"login.cancel": "Cancelar",
+"login.contact": "Contáctanos: +57 3102105253 - info@elaromamagico.com - @elaromamagico",
+"login.error": "Error de autenticación. Revise sus credenciales",
+"home.title": "El aroma mágico",
+"home.contact": "Contáctanos: +57 3102105253 - info@elaromamagico.com - @elaromamagico",
+"cafeCatalog.name": "Nombre",
+"cafeCatalog.type": "Tipo",
+"cafeCatalog.region": "Región",
+"cafeCatalog.notes": "Notas",
+"cafeCatalog.msnm": "msnm",
+"cafeCatalog.unknownDate": "Fecha desconocida"
+}

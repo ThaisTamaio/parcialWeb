@@ -1,0 +1,16 @@
+.cafe-table {
+  margin-top: 10px;
+}
+
+.cafe-table thead tr {
+  background-color: #333a40;
+  color: white;
+}
+
+.cafe-table tbody tr {
+  background-color: white;
+}
+
+.cafe-table_bold-text {
+  font-weight: bold !important;
+}
